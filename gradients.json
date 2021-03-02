@@ -1,5 +1,9 @@
 [
     {
+        "name": "Adani",
+        "colors": ["#0b74b0", "#75479c", "#bd3861"]
+    }, 
+    {
         "name": "Omolon",
         "colors": ["#091E3A", "#2F80ED", "#2D9EE0"]
     },
